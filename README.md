@@ -30,3 +30,6 @@ The goal is to evolve from detection to a **self-healing cloud** architecture:
 1. **Detection:** Identifying slowdowns using SORN.
 2. **Diagnosis:** Employing Large Language Models (LLMs) for deep root cause analysis.
 3. **Recovery:** Utilizing Multi-Agent Systems to initiate automatic recovery.
+
+## View Presentation
+[View Presentation]{./presentation.pdf}
