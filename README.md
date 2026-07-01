@@ -32,4 +32,4 @@ The goal is to evolve from detection to a **self-healing cloud** architecture:
 3. **Recovery:** Utilizing Multi-Agent Systems to initiate automatic recovery.
 
 ## View Presentation
-[View Presentation]{./presentation.pdf}
+[View Presentation]{/presentation.pdf}
